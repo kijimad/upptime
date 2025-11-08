@@ -2,12 +2,14 @@ owner: kijimaD
 repo: roam_upptime
 
 sites:
-  - name: production(gh domain)
+  - name: roam production -- GitHub Pages
     url: https://kijimad.github.io/roam/
-  # - name: production(custom domain)
-  #   url: https://www.kijimad.com/
-  # - name: staging
-  #   url: https://roam-staging.herokuapp.com/
+  - name: PDF Viewer -- Private only
+    url: https://mypdfs.a9ne.com/
+  - name: Dashboard -- Private only
+    url: https://kubernetes-dashboard.a9ne.com/
+  - name: Wiki -- for family member
+    url: https://fin.a9ne.com/
 
 status-website:
   baseUrl: /roam_upptime
