@@ -1,5 +1,5 @@
 owner: kijimaD
-repo: roam_upptime
+repo: upptime
 
 sites:
   - name: roam production -- GitHub Pages
@@ -12,7 +12,7 @@ sites:
     url: https://fin.a9ne.com/
 
 status-website:
-  baseUrl: /roam_upptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
